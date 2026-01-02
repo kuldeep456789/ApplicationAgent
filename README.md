@@ -6,6 +6,9 @@ An autonomous AI agent that streamlines your job search by intelligently scrapin
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
+![img alt](https://raw.githubusercontent.com/kuldeep456789/ApplicationAgent/main/Screenshot%202026-01-02%20165121.png)
+
+
 Automatically scrape jobs from LinkedIn, Indeed, and other platforms
 Use Claude/GPT-4/Gemini to analyze job requirements and match with your skills
 Generate customized cover letters for each application
